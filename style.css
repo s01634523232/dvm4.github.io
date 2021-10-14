@@ -1,0 +1,10 @@
+.footer {
+width:1000000%; 
+    background-color:#99CC99; 
+    padding: 10px; 
+    font-size: 10pt;
+    font-family: "Tahoma", monotype;
+    font-weight: bold;
+    line-height: 120%; 
+    margin-top:5px; 
+}
