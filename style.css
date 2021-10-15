@@ -8,3 +8,48 @@ width:1000000%;
     line-height: 120%; 
     margin-top:5px; 
 }
+@media screen and (min-device-width:768px){
+  header div .container{
+    border-radius: 10px;
+  }
+  .titleH{
+    font-size: 60px;
+  }
+  #logo{
+    width: auto;
+    height: auto;
+  }
+  nav{
+    background-color :#e4d9f3;
+    border: 0px solid #6e3bb1;
+  }
+  nav div a{
+    font-size: 25px;
+    border: 2px solid #6e3bb1;
+  }
+  nav div a:hover{
+  color:#e4d9f3;
+  background-color:#cebfe0;
+  }
+  .img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+  }
+  .mainBorder{
+    border: 1px solid #6e3bb1;
+    border-radius: 10px;
+  }
+   .titleM{
+    font-size: 45px;
+  }
+  li {
+    font-size: 20px;
+  }
+  form {
+    font-size: 25px;
+  }
+  footer h1{
+    font-size: 30px;
+  }
+}
